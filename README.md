@@ -6,6 +6,6 @@
 - ⚡ Gosto de livros, filosofia e ciencia alem de ser Economista: ...
 
 <!---
-jhonatanMuniz10/jhonatanMuniz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jhonatanMuniz10/jhonatanMunizis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
